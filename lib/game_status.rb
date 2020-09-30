@@ -41,5 +41,5 @@ def won?(board)
 end
 
 
-  board = [" ", " ", "X", "X", "X", " ", " ", " ", " "]
+board = [" ", " ", "X", "X", "X", " ", " ", " ", " "]
 puts  won?(board)
