@@ -37,5 +37,4 @@ def won?(board)
       false
     end
   end
-     end
 end
