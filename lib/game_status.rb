@@ -41,4 +41,4 @@ end
 
 
   board = ["X", "X", "X", "O", "O", " ", " ", " ", " "]
-  won?
+puts  won?(board)
